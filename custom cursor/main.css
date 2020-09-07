@@ -1,0 +1,6 @@
+.btn{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: url('img/home.png'),auto;
+}
